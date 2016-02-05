@@ -1,5 +1,5 @@
 import java.io.*;
-class  archivo
+class  factorial
 {
   public static void main (String arg []) throws IOException
    {int n,a,x;
