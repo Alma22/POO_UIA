@@ -2,7 +2,7 @@ import java.util.*;
 public class triangulo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        double a,b,c,p;
+        double a,b,c,p
         System.out.print("Introduzca longitud del primer lado del triángulo: ");
         a = sc.nextDouble();
         System.out.print("Introduzca longitud del segundo lado del triángulo: ");
